@@ -93,7 +93,7 @@ Contributions are welcome! Please submit a pull request for enhancements, bug fi
 This repository is licensed under the MIT License.
 
 ## Acknowledgments
-- Titanic dataset sourced from [Kaggle](https://www.kaggle.com/c/titanic).
+- Titanic dataset sourced from [Kaggle]
 - Student performance data from internal academic records.
 - Python community for supporting robust data science tools.
 
